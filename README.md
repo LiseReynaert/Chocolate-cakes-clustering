@@ -1,2 +1,6 @@
 # Chocolate-cakes-clustering
 What are the characteristics of different types of chocolate cakes : mi-cuit, fondant, moelleux, cake and cupcake ?
+
+<a href="https://github.com/LiseReynaert/Chocolate-cakes-clustering/blob/main/Webscraping_1page.ipynb">1. Webscraping of one page</a> 
+
+
